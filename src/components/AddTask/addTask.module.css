@@ -1,0 +1,15 @@
+.addTask {
+  /* Sample */
+}
+.todoForm{
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  text-align: center;
+  width: 20%;
+  margin:auto;
+  height:400px;
+}
+.heading{
+  background-color: rgba(0, 204, 255, 0.527);
+  height:20%;
+  margin-bottom: 10px;
+}
